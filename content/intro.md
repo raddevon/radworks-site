@@ -1,1 +1,1 @@
-RadWorks helps startups build MVPs or proofs-of-concept. We help small teams scale up quickly through staff augmentation. We help entrepreneurs get their businesses off the ground. We use modern tech stacks and great communication to deliver consistent reliable results.
+RadWorks helps **startups** build MVPs or proofs-of-concept. We help **small teams** scale up quickly through staff augmentation. We help **entrepreneurs** get their businesses off the ground. We use **modern tech stacks** and **great communication** to deliver consistent reliable results.
