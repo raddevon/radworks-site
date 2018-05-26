@@ -1,0 +1,27 @@
+@import "../utils/colors"
+
+.lead-form-button-container
+    h2    
+        margin-top: 0.5em
+        margin-right: 0.5em
+    button
+        transition: all 0.2s ease-in-out
+        cursor: pointer
+        font-family: inherit
+        font-size: 1.414em
+        font-weight: 700
+        background: $accent-color-1
+        color: $white
+        padding: 1em
+        height: 80%
+        align-self: center
+        border: none
+        &:hover
+            transform: translateY(-3px)
+            box-shadow: 0 3px 0 0 darken($accent-color-1, 20%)
+        &:active
+            background: $accent-color-2
+            color: $white
+
+.ReactTypeformEmbed
+    display: none

@@ -1,5 +1,7 @@
 import React from 'react';
 
+import styles from './intro.sass';
+
 const Intro = ({ children }) => {
   return (
     <section className="intro">
