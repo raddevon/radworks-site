@@ -17,6 +17,7 @@
     "gatsby-transformer-remark": "^1.7.41",
     "gatsby-transformer-sharp": "^1.6.24",
     "react-helmet": "^5.2.0",
+    "react-typeform-embed": "^0.1.6",
     "typography-theme-doelger": "^0.15.11"
   },
   "keywords": [
