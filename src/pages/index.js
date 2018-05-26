@@ -11,7 +11,7 @@ const IndexPage = ({ data }) => (
 export default IndexPage;
 
 export const query = graphql`
-  query IntroContentQuery {
+  query IndexQuery {
     intro: markdownRemark(fileAbsolutePath: { glob: "**/*/intro.md" }) {
       html
     }
