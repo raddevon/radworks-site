@@ -15,7 +15,7 @@ class LeadForm extends React.Component {
 
   render() {
     return (
-      <div className="lead-form-container">
+      <section className="lead-form-container">
         <ReactTypeformEmbed
           popup={true}
           autoOpen={false}
@@ -30,7 +30,7 @@ class LeadForm extends React.Component {
           <h2>Ready?</h2>
           <button onClick={this.openForm}>Start building with us</button>
         </div>
-      </div>
+      </section>
     );
   }
 }
